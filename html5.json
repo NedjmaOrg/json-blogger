@@ -1,0 +1,14 @@
+[
+  {
+    "id": "c1",
+    "title": "01 - Introduction",
+    "videos": [
+      {
+        "id": "v1",
+        "title": "Introduction",
+        "name": "https://formations.nedjma.org/vi/HTML%205/ch-0/v1.mp4",
+        "duration": "2:47"
+      }
+    ]
+  }
+]
