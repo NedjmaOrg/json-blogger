@@ -1,333 +1,272 @@
-
-
-   
-
-        // Données des chapitres et vidéos
-
-  [
-			//chapitre 1
+[
+    {
+        "id": "c1",
+        "title": "01 - Introduction",
+        "videos": [
             {
-                'id': 'c1',
-                'title': '01 - Introduction',
-                'videos': [
-                    {
-                        'id': 'v1',
-                        'title': 'Introduction',
-                        'name': 'https://formations.nedjma.org/vi/HTML%205/ch-0/v1.mp4',
-                        'duration': '2:47'
-                    }
-                ]
-            },
-			//chapitre 2
-            {
-                'id': 'c2',
-                'title': '02 - 1. Aborder le langage HTML',
-                'videos': [
-                    {
-                        'id': 'v2',
-                        'title': '01 - Comprendre le rôle du langage HTML',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-1/v2.mp4',
-                        'duration': '24:49'
-                    },
-                    {
-                        'id': 'v3',
-                        'title': '02 - Appréhender les balises HTML',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-1/v3.mp4',
-                        'duration': '2:45'
-                    },
-                  
-                  {
-                        'id': 'v4',
-                        'title': '03 - Valider le code HTML',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-1/v4.mp4',
-                        'duration': '2:45'
-                    },
-                  
-                   {
-                        'id': 'v5',
-                        'title': '04 - Assimiler la déclaration de type',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-1/v5.mp4',
-                        'duration': '2:45'
-                    },
-                  
-                      {
-                        'id': 'v6',
-                        'title': '05 - Définir la balise html',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-1/v6.mp4',
-                        'duration': '2:45'
-                    },
-                  
-                   {
-                        'id': 'v7',
-                        'title': '06 - Comprendre les zones head et body',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-1/v7.mp4',
-                        'duration': '2:45'
-                    },
-                  
-                    {
-                        'id': 'v8',
-                        'title': '07 - Utiliser la balise title',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-1/v8.mp4',
-                        'duration': '2:45'
-                    },
-                  
-                   {
-                        'id': 'v9',
-                        'title': '08 - Inclure des métadonnées',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-1/v9.mp4',
-                        'duration': '2:45'
-                    },
-                  
-                   {
-                        'id': 'v10',
-                        'title': '09 - Indenter le code HTML',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-1/v10.mp4',
-                        'duration': '2:45'
-                    },
-                  
-                  {
-                        'id': 'v11',
-                        'title': '10 - histoire du langage HTML',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-1/v11.mp4',
-                        'duration': '2:45'
-                    }
-                  
-                ]
-            },
-			//chapitre 3
-			{
-                'id': 'c3',
-                'title': '03 - 2. Aborder le fonctionnement du langage HTML',
-                'videos': [
-                    {
-                        'id': 'v12',
-                        'title': '01 - Étudier les balises et les attributs',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-2/v12.mp4',
-                        'duration': '24:49'
-                    },
-                    {
-                        'id': 'v13',
-                        'title': '02 - Choisir et installer un éditeur de code',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-2/v13.mp4',
-                        'duration': '2:45'
-                    },
-                  
-                  {
-                        'id': 'v14',
-                        'title': '03 - Utiliser un éditeur de code',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-2/v14.mp4',
-                        'duration': '2:45'
-                    },
-                  
-                   {
-                        'id': 'v15',
-                        'title': '04 - Tester vos pages avec Live Server',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-2/v15.mp4',
-                        'duration': '2:45'
-                    },
-                  
-                      {
-                        'id': 'v16',
-                        'title': '05 - Imbrication des balises',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-2/v16.mp4',
-                        'duration': '2:45'
-                    },
-                  
-                   {
-                        'id': 'v17',
-                        'title': '06 - Fermer les balises',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-2/v17.mp4',
-                        'duration': '2:45'
-                    },
-                  
-                    {
-                        'id': 'v18',
-                        'title': '07 - Comparer HTML, CSS et JavaScript',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-2/v18.mp4',
-                        'duration': '2:45'
-                    },
-                  
-                   {
-                        'id': 'v19',
-                        'title': '08 - Inspecter le code HTML des pages web',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-2/v19.mp4',
-                        'duration': '2:45'
-                    },
-                  
-                ]
-            },
-			//fin du chapitre
-			
-			
-	      	//chapitre 4
-			{
-                'id': 'c4',
-                'title': '04 - 3. Marquer le texte en HTML',
-                'videos': [
-                    {
-                        'id': 'v20',
-                        'title': '01 - Créer un nouveau site',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-3/v20.mp4',
-                        'duration': '24:49'
-                    },
-                    {
-                        'id': 'v21',
-                        'title': '02 - Bien utiliser les paragraphes',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-3/v21.mp4',
-                        'duration': '24:49'
-                    },
-                  
-                  {
-                        'id': 'v22',
-                        'title': '03 - Employer les niveaux de titre',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-3/v22.mp4',
-                        'duration': '24:49'
-                    },
-                  
-                  
-                    {
-                        'id': 'v23',
-                        'title': '04 - Contrôler les sauts de ligne',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-3/v23.mp4',
-                        'duration': '24:49'
-                    },
-                  
-                   {
-                        'id': 'v24',
-                        'title': '05 - Mettre du texte en évidence',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-3/v24.mp4',
-                        'duration': '24:49'
-                    },
-                  
-                  {
-                        'id': 'v25',
-                        'title': '06 - Définir des listes simples',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-3/v25.mp4',
-                        'duration': '24:49'
-                    },
-                  
-                   {
-                        'id': 'v26',
-                        'title': '07 - Utiliser les listes de description',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-3/v26.mp4',
-                        'duration': '24:49'
-                    },
-                  
-                   {
-                        'id': 'v27',
-                        'title': '08 - Afficher des caractères spéciaux',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-3/v27.mp4',
-                        'duration': '24:49'
-                    },
-                  
-                   {
-                        'id': 'v28',
-                        'title': '09 - Travailler avec des espaces',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-3/v28.mp4',
-                        'duration': '24:49'
-                    },
-                  
-                  
-                   {
-                        'id': 'v29',
-                        'title': '10 - Marquer du texte en HTML',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-3/v29.mp4',
-                        'duration': '24:49'
-                    },
-               
-               
-                ]
-            },
-			//fin du chapitre
-         
-         
-          //chapitre 5
-			{
-                'id': 'c5',
-                'title': '05 - 4. Ajouter des éléments multimédia',
-                'videos': [
-                    {
-                        'id': 'v30',
-                        'title': '01 - Insérer des images',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-4/v30.mp4',
-                        'duration': '24:49'
-                    },
-                     {
-                        'id': 'v31',
-                        'title': '02 - Différencier chemin relatif et chemin absolu',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-4/v31.mp4',
-                        'duration': '24:49'
-                    },
-                  
-                    {
-                        'id': 'v32',
-                        'title': '03 - Spécifier la taille des images',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-4/v32.mp4',
-                        'duration': '24:49'
-                    },
-                  
-                  {
-                        'id': 'v33',
-                        'title': '04 - Connaître les formats des images pris en charge sur Internet',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-4/v33.mp4',
-                        'duration': '24:49'
-                    },
-                   
-                  {
-                        'id': 'v34',
-                        'title': '05 - Insérer des vidéos',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-4/v34.mp4',
-                        'duration': '24:49'
-                    },
-                  
-                  {
-                        'id': 'v35',
-                        'title': '06 - Incorporer des vidéos YouTube',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-4/v35.mp4',
-                        'duration': '24:49'
-                    },
-                     {
-                        'id': 'v36',
-                        'title': '07 - Ajouter des fichiers audio',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-4/v36.mp4',
-                        'duration': '24:49'
-                    },
-                  
-                  {
-                        'id': 'v37',
-                        'title': '08 - Utiliser l&#39élément figure',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-4/v37.mp4',
-                        'duration': '24:49'
-                    },
-                ]
-            },
-			//fin du chapitre	
-		
-  
- 		  //chapitre 6
-			{
-                'id': 'c5',
-                'title': '06 - 5. Structurer les pages',
-                'videos': [
-                    {
-                        'id': 'v38',
-                        'title': '01 - Découvrir le travail à réaliser',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-5/v38.mp4',
-                        'duration': '24:49'
-                    },
-                  
-                    {
-                        'id': 'v39',
-                        'title': '02 - Utiliser la balise div',
-                        'name': 'https://formations.nedjma.org/vi/HTML 5/ch-5/v39.mp4',
-                        'duration': '24:49'
-                    },
-                     
-                ]
-            },
-			//fin du chapitre	 
-			
+                "id": "v1",
+                "title": "Introduction",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-0/v1.mp4",
+                "duration": "2:47"
+            }
         ]
-		
-		
-
+    },
+    {
+        "id": "c2",
+        "title": "02 - 1. Aborder le langage HTML",
+        "videos": [
+            {
+                "id": "v2",
+                "title": "01 - Comprendre le rôle du langage HTML",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-1/v2.mp4",
+                "duration": "24:49"
+            },
+            {
+                "id": "v3",
+                "title": "02 - Appréhender les balises HTML",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-1/v3.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v4",
+                "title": "03 - Valider le code HTML",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-1/v4.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v5",
+                "title": "04 - Assimiler la déclaration de type",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-1/v5.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v6",
+                "title": "05 - Définir la balise html",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-1/v6.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v7",
+                "title": "06 - Comprendre les zones head et body",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-1/v7.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v8",
+                "title": "07 - Utiliser la balise title",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-1/v8.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v9",
+                "title": "08 - Inclure des métadonnées",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-1/v9.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v10",
+                "title": "09 - Indenter le code HTML",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-1/v10.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v11",
+                "title": "10 - histoire du langage HTML",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-1/v11.mp4",
+                "duration": "2:45"
+            }
+        ]
+    },
+    {
+        "id": "c3",
+        "title": "03 - 2. Aborder le fonctionnement du langage HTML",
+        "videos": [
+            {
+                "id": "v12",
+                "title": "01 - Étudier les balises et les attributs",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-2/v12.mp4",
+                "duration": "24:49"
+            },
+            {
+                "id": "v13",
+                "title": "02 - Choisir et installer un éditeur de code",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-2/v13.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v14",
+                "title": "03 - Utiliser un éditeur de code",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-2/v14.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v15",
+                "title": "04 - Tester vos pages avec Live Server",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-2/v15.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v16",
+                "title": "05 - Imbrication des balises",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-2/v16.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v17",
+                "title": "06 - Fermer les balises",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-2/v17.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v18",
+                "title": "07 - Comparer HTML, CSS et JavaScript",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-2/v18.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v19",
+                "title": "08 - Inspecter le code HTML des pages web",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-2/v19.mp4",
+                "duration": "2:45"
+            }
+        ]
+    },
+    {
+        "id": "c4",
+        "title": "04 - 3. Marquer le texte en HTML",
+        "videos": [
+            {
+                "id": "v20",
+                "title": "01 - Créer un nouveau site",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-3/v20.mp4",
+                "duration": "24:49"
+            },
+            {
+                "id": "v21",
+                "title": "02 - Bien utiliser les paragraphes",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-3/v21.mp4",
+                "duration": "24:49"
+            },
+            {
+                "id": "v22",
+                "title": "03 - Employer les niveaux de titre",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-3/v22.mp4",
+                "duration": "24:49"
+            },
+            {
+                "id": "v23",
+                "title": "04 - Contrôler les sauts de ligne",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-3/v23.mp4",
+                "duration": "24:49"
+            },
+            {
+                "id": "v24",
+                "title": "05 - Mettre du texte en évidence",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-3/v24.mp4",
+                "duration": "24:49"
+            },
+            {
+                "id": "v25",
+                "title": "06 - Définir des listes simples",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-3/v25.mp4",
+                "duration": "24:49"
+            },
+            {
+                "id": "v26",
+                "title": "07 - Utiliser les listes de description",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-3/v26.mp4",
+                "duration": "24:49"
+            },
+            {
+                "id": "v27",
+                "title": "08 - Afficher des caractères spéciaux",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-3/v27.mp4",
+                "duration": "24:49"
+            },
+            {
+                "id": "v28",
+                "title": "09 - Travailler avec des espaces",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-3/v28.mp4",
+                "duration": "24:49"
+            },
+            {
+                "id": "v29",
+                "title": "10 - Marquer du texte en HTML",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-3/v29.mp4",
+                "duration": "24:49"
+            }
+        ]
+    },
+    {
+        "id": "c5",
+        "title": "05 - 4. Ajouter des éléments multimédia",
+        "videos": [
+            {
+                "id": "v30",
+                "title": "01 - Insérer des images",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-4/v30.mp4",
+                "duration": "24:49"
+            },
+            {
+                "id": "v31",
+                "title": "02 - Différencier chemin relatif et chemin absolu",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-4/v31.mp4",
+                "duration": "24:49"
+            },
+            {
+                "id": "v32",
+                "title": "03 - Spécifier la taille des images",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-4/v32.mp4",
+                "duration": "24:49"
+            },
+            {
+                "id": "v33",
+                "title": "04 - Connaître les formats des images pris en charge sur Internet",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-4/v33.mp4",
+                "duration": "24:49"
+            },
+            {
+                "id": "v34",
+                "title": "05 - Insérer des vidéos",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-4/v34.mp4",
+                "duration": "24:49"
+            },
+            {
+                "id": "v35",
+                "title": "06 - Incorporer des vidéos YouTube",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-4/v35.mp4",
+                "duration": "24:49"
+            },
+            {
+                "id": "v36",
+                "title": "07 - Ajouter des fichiers audio",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-4/v36.mp4",
+                "duration": "24:49"
+            },
+            {
+                "id": "v37",
+                "title": "08 - Utiliser l'élément figure",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-4/v37.mp4",
+                "duration": "24:49"
+            }
+        ]
+    },
+    {
+        "id": "c6",
+        "title": "06 - 5. Structurer les pages",
+        "videos": [
+            {
+                "id": "v38",
+                "title": "01 - Découvrir le travail à réaliser",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-5/v38.mp4",
+                "duration": "24:49"
+            },
+            {
+                "id": "v39",
+                "title": "02 - Utiliser la balise div",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-5/v39.mp4",
+                "duration": "24:49"
+            }
+        ]
+    }
+]
