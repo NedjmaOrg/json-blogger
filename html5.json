@@ -344,7 +344,7 @@
                 "duration": "24:49"
             },
 			
-				{
+			{
                 "id": "v49",
                 "title": "03 - Créer des liens vers les régions d'une page",
                 "name": "https://formations.nedjma.org/vi/HTML%205/ch-6/v49.mp4",
@@ -363,9 +363,14 @@
                 "title": "05 - Lier à une adresse e-mail",
                 "name": "https://formations.nedjma.org/vi/HTML%205/ch-6/v51.mp4",
                 "duration": "24:49"
+            },
+			
+			{
+                "id": "v52",
+                "title": "06 - Découvrir l'élément nav",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-6/v52.mp4",
+                "duration": "24:49"
             }
-			
-			
 			
         ]
     }
