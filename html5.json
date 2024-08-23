@@ -266,7 +266,35 @@
                 "title": "02 - Utiliser la balise div",
                 "name": "https://formations.nedjma.org/vi/HTML%205/ch-5/v39.mp4",
                 "duration": "24:49"
-            }
+            },
+			
+			 {
+                "id": "v40",
+                "title": "03 - Employer l'attribut id",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-5/v40.mp4",
+                "duration": "24:49"
+            },
+			
+			{
+                "id": "v41",
+                "title": "04 - Commenter le code HTML",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-5/v41.mp4",
+                "duration": "24:49"
+            },
+			
+			{
+                "id": "v42",
+                "title": "05 - Découvrir les balises structurantes du langage HTML5",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-5/v42.mp4",
+                "duration": "24:49"
+            },
+			
+			{
+                "id": "v43",
+                "title": "06 - Utiliser les balises header et footer",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-5/v43.mp4",
+                "duration": "24:49"
+            },
         ]
     }
 ]
