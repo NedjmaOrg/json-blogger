@@ -317,7 +317,37 @@
                 "name": "https://formations.nedjma.org/vi/HTML%205/ch-5/v46.mp4",
                 "duration": "24:49"
             }
-		
+			
+			
+			
+			
+			
+			
+        ]
+    },
+	{
+        "id": "c7",
+        "title": "07 - 6. Mettre en place des liens",
+        "videos": [
+           
+			{
+                "id": "v47",
+                "title": "01 - Découvrir la balise a",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-6/v47.mp4",
+                "duration": "24:49"
+            },
+			
+			{
+                "id": "v48",
+                "title": "02 - Créer des liens vers d'autres sites",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-6/v48.mp4",
+                "duration": "24:49"
+            }
+			
+			
+			
+			
         ]
     }
+	
 ]
