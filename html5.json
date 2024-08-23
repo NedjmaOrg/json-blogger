@@ -301,8 +301,16 @@
                 "title": "07 - Tirer parti des balises section, main et aside",
                 "name": "https://formations.nedjma.org/vi/HTML%205/ch-5/v44.mp4",
                 "duration": "24:49"
-            }		
+            },
 			
+			
+			{
+                "id": "v45",
+                "title": "08 - Employer l'élément article",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-5/v45.mp4",
+                "duration": "24:49"
+            }
+					
         ]
     }
 ]
