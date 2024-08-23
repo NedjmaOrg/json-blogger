@@ -294,7 +294,15 @@
                 "title": "06 - Utiliser les balises header et footer",
                 "name": "https://formations.nedjma.org/vi/HTML%205/ch-5/v43.mp4",
                 "duration": "24:49"
-            }
+            },
+			
+			{
+                "id": "v44",
+                "title": "07 - Tirer parti des balises section, main et aside",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-5/v44.mp4",
+                "duration": "24:49"
+            }		
+			
         ]
     }
 ]
