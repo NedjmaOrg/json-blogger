@@ -493,21 +493,21 @@
                 "duration": "24:49"
             },
 			
-	    {
+			{
                 "id": "v68",
                 "title": "07 - Appliquer des styles CSS",
                 "name": "https://formations.nedjma.org/vi/HTML%205/ch-8/v68.mp4",
                 "duration": "24:49"
             },
 			
-	   {
+			{
                 "id": "v69",
                 "title": "08 - Adapter le code HTML pour l'application des CSS",
                 "name": "https://formations.nedjma.org/vi/HTML%205/ch-8/v69.mp4",
                 "duration": "24:49"
             },
 			
-	   {
+			{
                 "id": "v70",
                 "title": "09 - Importer des scripts",
                 "name": "https://formations.nedjma.org/vi/HTML%205/ch-8/v70.mp4",
@@ -516,6 +516,80 @@
 			
 			
         ]
+    },
+	
+	{
+        "id": "c10",
+        "title": "10 - 9. Améliorer l'accessibilité et le référencement des sites web",
+        "videos": [
+           
+			{
+                "id": "v71",
+                "title": "01 - Prendre en compte tous les utilisateurs",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-9/v71.mp4",
+                "duration": "24:49"
+            }, 
+			
+			{
+                "id": "v72",
+                "title": "02 - Découvrir la spécification WAI-ARIA",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-9/v72.mp4",
+                "duration": "24:49"
+            },
+			
+			{
+                "id": "v73",
+                "title": "03 - Comprendre les rôles Landmark ",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-9/v73.mp4",
+                "duration": "24:49"
+            },
+			
+			{
+                "id": "v74",
+                "title": "04 - Définir des métadonnées",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-9/v74.mp4",
+                "duration": "24:49"
+            },
+			
+			{
+                "id": "v75",
+                "title": "05 - Améliorer l'accessibilité des formulaires",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-9/v75.mp4",
+                "duration": "24:49"
+            },
+			
+			{
+                "id": "v76",
+                "title": "06 - Améliorer l'accessibilité des liens",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-9/v76.mp4",
+                "duration": "24:49"
+            },
+			
+			{
+                "id": "v77",
+                "title": "07 - Permettre la description du menu",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-9/v77.mp4",
+                "duration": "24:49"
+            }
+			
+        ]
+    },
+	
+	
+	{
+        "id": "c10",
+        "title": "11 - Conclusion",
+        "videos": [
+           
+			{
+                "id": "v78",
+                "title": "01 - Conclure sur le langage HTML5",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-10/v78.mp4",
+                "duration": "24:49"
+            }
+			
+        ]
     }
+	
 	
 ]
