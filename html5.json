@@ -430,17 +430,32 @@
                 "duration": "24:49"
             },
 			
-	    {
+		    {
                 "id": "v60",
                 "title": "07 - Valider les formulaires automatiquement",
                 "name": "https://formations.nedjma.org/vi/HTML%205/ch-7/v60.mp4",
                 "duration": "24:49"
             },
 			
-	    {
+			{
                 "id": "v61",
                 "title": "08 - Découvrir les autres types de champs",
                 "name": "https://formations.nedjma.org/vi/HTML%205/ch-7/v61.mp4",
+                "duration": "24:49"
+            }
+			
+			
+        ]
+    }
+	{
+        "id": "c9",
+        "title": "09 - 8. Finaliser le site",
+        "videos": [
+           
+			{
+                "id": "v62",
+                "title": "01 - Mettre en place le moteur de recherche",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-8/v62.mp4",
                 "duration": "24:49"
             }
 			
