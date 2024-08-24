@@ -423,12 +423,27 @@
             },
 			
 			
-	    {
+			{
                 "id": "v59",
                 "title": "06 - Créer un bouton Submit",
                 "name": "https://formations.nedjma.org/vi/HTML%205/ch-7/v59.mp4",
                 "duration": "24:49"
+            },
+			
+	    {
+                "id": "v60",
+                "title": "07 - Valider les formulaires automatiquement",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-7/v60.mp4",
+                "duration": "24:49"
+            },
+			
+	    {
+                "id": "v61",
+                "title": "08 - Découvrir les autres types de champs",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-7/v61.mp4",
+                "duration": "24:49"
             }
+			
 			
         ]
     }
