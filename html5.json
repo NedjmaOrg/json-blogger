@@ -408,10 +408,17 @@
                 "duration": "24:49"
             }, 
 			
-	   {
+			{
                 "id": "v57",
                 "title": "04 - Créer des champs de type email",
                 "name": "https://formations.nedjma.org/vi/HTML%205/ch-7/v57.mp4",
+                "duration": "24:49"
+            },
+			
+			{
+                "id": "v58",
+                "title": "05 - Utiliser la balise textarea",
+                "name": "https://formations.nedjma.org/vi/HTML%205/ch-7/v58.mp4",
                 "duration": "24:49"
             }
 			
