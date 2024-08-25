@@ -51,6 +51,47 @@
 				"duration": "2:47"
 			}
 		]
+	},
+	
+	{
+		"id": "c3",
+		"title": "2. Prendre en main jQuery",
+		"videos": [
+			{
+				"id": "v7",
+				"title": "01 - Comprendre les diverses éditions de jQuery",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-3/v7.mp4",
+				"duration": "2:47"
+			},
+			
+			{
+				"id": "v8",
+				"title": "02 - Utiliser un CDN",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-3/v8.mp4",
+				"duration": "2:47"
+			},
+			
+			{
+				"id": "v9",
+				"title": "03 - Utiliser la documentation jQuery",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-3/v9.mp4",
+				"duration": "2:47"
+			},
+			
+			{
+				"id": "v10",
+				"title": "04 - Créer un objet jQuery",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-3/v10.mp4",
+				"duration": "2:47"
+			},
+			
+			{
+				"id": "v11",
+				"title": "05 - Attendre le chargement complet de la page",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-3/v11.mp4",
+				"duration": "2:47"
+			}
+		]
 	}
 	
 ]
