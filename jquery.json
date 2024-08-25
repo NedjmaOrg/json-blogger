@@ -1,0 +1,35 @@
+[
+	{
+		"id": "c1",
+		"title": "Introduction",
+		"videos": [
+			{
+				"id": "v1",
+				"title": "01 - Bienvenue dans « L'essentiel de jQuery »",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-1/v1.mp4",
+				"duration": "2:47"
+			}
+		]
+	},
+	
+	{
+		"id": "c2",
+		"title": "1. Aborder cette formation",
+		"videos": [
+			{
+				"id": "v2",
+				"title": "01 - Découvrir les prérequis",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-2/v2.mp4",
+				"duration": "2:47"
+			},
+			
+			{
+				"id": "v3",
+				"title": "02 - S'initier à jQuery",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-2/v3.mp4",
+				"duration": "2:47"
+			}
+		]
+	}
+	
+]
