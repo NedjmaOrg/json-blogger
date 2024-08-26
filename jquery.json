@@ -92,6 +92,54 @@
 				"duration": "2:47"
 			}
 		]
+	},
+	
+	{
+		"id": "c4",
+		"title": "3. Utiliser les sélecteurs et les filtres",
+		"videos": [
+			{
+				"id": "v12",
+				"title": "01 - Utiliser les sélecteurs CSS basiques",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-4/v12.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v13",                                         
+				"title": "02 - Utiliser des sélecteurs CSS avancés",                    
+				"name": "https://formations.nedjma.org/vi/jquery/ch-4/v13.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v14",                                         
+				"title": "03 - Sélectionner dans un contexte bien précis",   
+				"name": "https://formations.nedjma.org/vi/jquery/ch-4/v14.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v15",                                        
+				"title": "04 - Utiliser les filtres du CSS",              
+				"name": "https://formations.nedjma.org/vi/jquery/ch-4/v15.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v16",                                        
+				"title": "05 - Connaître les extensions de jQuery",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-4/v16.mp4",
+				"duration": "2:47"
+			},
+			
+			{                                                       
+				"id": "v17",                                        
+				"title": "06 - Utiliser la fonction filter 28%29%",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-4/v16.mp4",
+				"duration": "2:47"
+			}
+		]
 	}
 	
 ]
