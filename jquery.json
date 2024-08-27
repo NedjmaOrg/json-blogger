@@ -136,10 +136,79 @@
 			{                                                       
 				"id": "v17",                                        
 				"title": "06 - Utiliser la fonction filter &#40;&#41;",
-				"name": "https://formations.nedjma.org/vi/jquery/ch-4/v16.mp4",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-4/v17.mp4",
+				"duration": "2:47"
+			}
+		]
+	},
+	{
+		"id": "c5",
+		"title": "4. Manipuler les éléments du DOM",
+		"videos": [
+			{
+				"id": "v18",
+				"title": "01 - Comprendre le travail à réaliser",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-5/v18.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v19",                                         
+				"title": "02 - Mettre en place le script",                    
+				"name": "https://formations.nedjma.org/vi/jquery/ch-5/v19.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v20",                                         
+				"title": "03 - Utiliser la fonction each&#40;&#41;",   
+				"name": "https://formations.nedjma.org/vi/jquery/ch-5/v20.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v21",                                        
+				"title": "04 - Utiliser la fonction data&#40;&#41;",              
+				"name": "https://formations.nedjma.org/vi/jquery/ch-5/v21.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v22",                                        
+				"title": "05 - Modifier le CSS avec jQuery",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-5/v22.mp4",
+				"duration": "2:47"
+			},
+			
+			{                                                       
+				"id": "v23",                                        
+				"title": "06 - Utiliser la fonction after&#40;&#41;",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-5/v23.mp4",
+				"duration": "2:47"
+			},
+			
+			{                                                       
+				"id": "v24",                                        
+				"title": "07 - Générer des éléments à la volée",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-5/v24.mp4",
+				"duration": "2:47"
+			},
+			{                                                       
+				"id": "v25",                                        
+				"title": "08 - Utiliser les fonctions append&#40;&#41; et appendTo&#40;&#41;",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-5/v25.mp4",
+				"duration": "2:47"
+			},
+			
+			{                                                       
+				"id": "v26",                                        
+				"title": "09 - Utiliser la fonction wrap&#40;&#41;",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-5/v26.mp4",
 				"duration": "2:47"
 			}
 		]
 	}
+	
+	
 	
 ]
