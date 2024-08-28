@@ -256,8 +256,70 @@
 			}
 			
 		]
-	}
+	},
 	
+	
+	{
+		"id": "c7",
+		"title": "6. Animer la page web",
+		"videos": [
+			{
+				"id": "v33",
+				"title": "01 - Utiliser la fonction animate&#40;&#41;",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-7/v33.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v34",                                         
+				"title": "02 - Changer la durée d'une animation",                    
+				"name": "https://formations.nedjma.org/vi/jquery/ch-7/v34.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v35",                                         
+				"title": "03 - Exécuter une fonction à la fin d'une animation",   
+				"name": "https://formations.nedjma.org/vi/jquery/ch-7/v35.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v36",                                        
+				"title": "04 - Animer un menu déroulant",              
+				"name": "https://formations.nedjma.org/vi/jquery/ch-7/v36.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v37",                                        
+				"title": "05 - Comprendre et utiliser l'évènement hover&#40;&#41 de jQuery",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-7/v37.mp4",
+				"duration": "2:47"
+			},
+			
+			{                                                       
+				"id": "v38",                                        
+				"title": "06 - Utiliser les animations préprogrammées",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-7/v38.mp4",
+				"duration": "2:47"
+			},
+			
+			{                                                       
+				"id": "v39",                                        
+				"title": "07 - Gérer la file d'attente des animations",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-7/v39.mp4",
+				"duration": "2:47"
+			},
+			
+			{                                                       
+				"id": "v40",                                        
+				"title": "08 - Animer le menu sur les smartphones",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-7/v40.mp4",
+				"duration": "2:47"
+			}
+		]
+	}
 	
 	
 ]
