@@ -207,6 +207,55 @@
 				"duration": "2:47"
 			}
 		]
+	},
+	
+	{
+		"id": "c6",
+		"title": "5. Utiliser les évènements",
+		"videos": [
+			{
+				"id": "v27",
+				"title": "01 - Comprendre le travail à réaliser",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-6/v27.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v28",                                         
+				"title": "02 - Attacher des évènements",                    
+				"name": "https://formations.nedjma.org/vi/jquery/ch-6/v28.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v29",                                         
+				"title": "03 - Comprendre la propriété Target",   
+				"name": "https://formations.nedjma.org/vi/jquery/ch-6/v29.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v30",                                        
+				"title": "04 - Manipuler les classes CSS",              
+				"name": "https://formations.nedjma.org/vi/jquery/ch-6/v30.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v31",                                        
+				"title": "05 - Détacher des évènements",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-6/v31.mp4",
+				"duration": "2:47"
+			},
+			
+			{                                                       
+				"id": "v32",                                        
+				"title": "06 - Utiliser les évènements raccourcis",
+				"name": "https://formations.nedjma.org/vi/jquery/ch-6/v32.mp4",
+				"duration": "2:47"
+			}
+			
+		]
 	}
 	
 	
