@@ -102,5 +102,36 @@
 				"duration": "2:45"
 			}
 		]
+	},
+	
+	{
+		"id": "c4",
+		"title": "3. Mettre en place les rubriques À propos et Contact",
+		"videos": [
+			{
+				"id": "v15",
+				"title": "01 - Créer la page À propos",
+				"name": "https://formations.nedjma.org/vi/figma/ch-4/v15.mp4",
+				"duration": "24:49"
+			},
+			{
+				"id": "v16",
+				"title": "02 - Ajouter des caractères spéciaux",
+				"name": "https://formations.nedjma.org/vi/figma/ch-4/v16.mp4",
+				"duration": "2:45"
+			},
+			{
+				"id": "v17",
+				"title": "03 - Cloner la page À propos",
+				"name": "https://formations.nedjma.org/vi/figma/ch-4/v17.mp4",
+				"duration": "2:45"
+			},
+			{
+				"id": "v18",
+				"title": "04 - Créer la page Contact",
+				"name": "https://formations.nedjma.org/vi/figma/ch-4/v18.mp4",
+				"duration": "2:45"
+			}
+		]
 	}
 ]
