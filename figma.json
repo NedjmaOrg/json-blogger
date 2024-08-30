@@ -1,137 +1,212 @@
 [
-	{
-		"id": "c1",
-		"title": "Introduction",
-		"videos": [
-			{
-				"id": "v1",
-				"title": "01 - Bienvenue dans « Figma  Créer une maquette de site Internet »",
-				"name": "https://formations.nedjma.org/vi/figma/ch-1/v1.mp4",
-				"duration": "2:47"
-			}
-		]
-	},
-	{
-		"id": "c2",
-		"title": "1. Mettre en place le projet et la maquette",
-		"videos": [
-			{
-				"id": "v2",
-				"title": "01 - Importer un fichier au format FIG",
-				"name": "https://formations.nedjma.org/vi/figma/ch-2/v2.mp4",
-				"duration": "24:49"
-			},
-			{
-				"id": "v3",
-				"title": "02 - Ajouter des styles",
-				"name": "https://formations.nedjma.org/vi/figma/ch-2/v3.mp4",
-				"duration": "2:45"
-			},
-			{
-				"id": "v4",
-				"title": "03 - Créer le splash screen",
-				"name": "https://formations.nedjma.org/vi/figma/ch-2/v4.mp4",
-				"duration": "2:45"
-			}
-		]
-	},
-	{
-		"id": "c3",
-		"title": "2. Réaliser la page d'accueil et le menu",
-		"videos": [
-			{
-				"id": "v5",
-				"title": "01 - Créer le slider et le haut de la page Menu",
-				"name": "https://formations.nedjma.org/vi/figma/ch-3/v5.mp4",
-				"duration": "24:49"
-			},
-			{
-				"id": "v6",
-				"title": "02 - Ajouter le composant slider et ses variants",
-				"name": "https://formations.nedjma.org/vi/figma/ch-3/v6.mp4",
-				"duration": "2:45"
-			},
-			{
-				"id": "v7",
-				"title": "03 - Créer la section Boutique",
-				"name": "https://formations.nedjma.org/vi/figma/ch-3/v7.mp4",
-				"duration": "2:45"
-			},
-			{
-				"id": "v8",
-				"title": "04 - Insérer des composants boutons",
-				"name": "https://formations.nedjma.org/vi/figma/ch-3/v8.mp4",
-				"duration": "2:45"
-			},
-			{
-				"id": "v9",
-				"title": "05 - Ajouter le composant article",
-				"name": "https://formations.nedjma.org/vi/figma/ch-3/v9.mp4",
-				"duration": "2:45"
-			},
-			{
-				"id": "v10",
-				"title": "06 - Ajouter la troisième section de la page",
-				"name": "https://formations.nedjma.org/vi/figma/ch-3/v10.mp4",
-				"duration": "2:45"
-			},
-			{
-				"id": "v11",
-				"title": "07 - Créer le composant texturé ROAR",
-				"name": "https://formations.nedjma.org/vi/figma/ch-3/v11.mp4",
-				"duration": "2:45"
-			},
-			{
-				"id": "v12",
-				"title": "08 - Insérer des composants icônes",
-				"name": "https://formations.nedjma.org/vi/figma/ch-3/v12.mp4",
-				"duration": "2:45"
-			},
-			
-			{
-				"id": "v13",
-				"title": "09 - Ajouter le footer",
-				"name": "https://formations.nedjma.org/vi/figma/ch-3/v13.mp4",
-				"duration": "2:45"
-			},
-			
-			{
-				"id": "v14",
-				"title": "10 - Créer et cloner la page Menu",
-				"name": "https://formations.nedjma.org/vi/figma/ch-3/v14.mp4",
-				"duration": "2:45"
-			}
-		]
-	},
-	
-	{
-		"id": "c4",
-		"title": "3. Mettre en place les rubriques À propos et Contact",
-		"videos": [
-			{
-				"id": "v15",
-				"title": "01 - Créer la page À propos",
-				"name": "https://formations.nedjma.org/vi/figma/ch-4/v15.mp4",
-				"duration": "24:49"
-			},
-			{
-				"id": "v16",
-				"title": "02 - Ajouter des caractères spéciaux",
-				"name": "https://formations.nedjma.org/vi/figma/ch-4/v16.mp4",
-				"duration": "2:45"
-			},
-			{
-				"id": "v17",
-				"title": "03 - Cloner la page À propos",
-				"name": "https://formations.nedjma.org/vi/figma/ch-4/v17.mp4",
-				"duration": "2:45"
-			},
-			{
-				"id": "v18",
-				"title": "04 - Créer la page Contact",
-				"name": "https://formations.nedjma.org/vi/figma/ch-4/v18.mp4",
-				"duration": "2:45"
-			}
-		]
-	}
+    {
+        "id": "c1",
+        "title": "Introduction",
+        "videos": [
+            {
+                "id": "v1",
+                "title": "01 - Bienvenue dans « Figma  Créer une maquette de site Internet »",
+                "name": "https://formations.nedjma.org/vi/figma/ch-1/v1.mp4",
+                "duration": "2:47"
+            }
+        ]
+    },
+    {
+        "id": "c2",
+        "title": "1. Mettre en place le projet et la maquette",
+        "videos": [
+            {
+                "id": "v2",
+                "title": "01 - Importer un fichier au format FIG",
+                "name": "https://formations.nedjma.org/vi/figma/ch-2/v2.mp4",
+                "duration": "24:49"
+            },
+            {
+                "id": "v3",
+                "title": "02 - Ajouter des styles",
+                "name": "https://formations.nedjma.org/vi/figma/ch-2/v3.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v4",
+                "title": "03 - Créer le splash screen",
+                "name": "https://formations.nedjma.org/vi/figma/ch-2/v4.mp4",
+                "duration": "2:45"
+            }
+        ]
+    },
+    {
+        "id": "c3",
+        "title": "2. Réaliser la page d'accueil et le menu",
+        "videos": [
+            {
+                "id": "v5",
+                "title": "01 - Créer le slider et le haut de la page Menu",
+                "name": "https://formations.nedjma.org/vi/figma/ch-3/v5.mp4",
+                "duration": "24:49"
+            },
+            {
+                "id": "v6",
+                "title": "02 - Ajouter le composant slider et ses variants",
+                "name": "https://formations.nedjma.org/vi/figma/ch-3/v6.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v7",
+                "title": "03 - Créer la section Boutique",
+                "name": "https://formations.nedjma.org/vi/figma/ch-3/v7.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v8",
+                "title": "04 - Insérer des composants boutons",
+                "name": "https://formations.nedjma.org/vi/figma/ch-3/v8.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v9",
+                "title": "05 - Ajouter le composant article",
+                "name": "https://formations.nedjma.org/vi/figma/ch-3/v9.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v10",
+                "title": "06 - Ajouter la troisième section de la page",
+                "name": "https://formations.nedjma.org/vi/figma/ch-3/v10.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v11",
+                "title": "07 - Créer le composant texturé ROAR",
+                "name": "https://formations.nedjma.org/vi/figma/ch-3/v11.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v12",
+                "title": "08 - Insérer des composants icônes",
+                "name": "https://formations.nedjma.org/vi/figma/ch-3/v12.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v13",
+                "title": "09 - Ajouter le footer",
+                "name": "https://formations.nedjma.org/vi/figma/ch-3/v13.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v14",
+                "title": "10 - Créer et cloner la page Menu",
+                "name": "https://formations.nedjma.org/vi/figma/ch-3/v14.mp4",
+                "duration": "2:45"
+            }
+        ]
+    },
+    {
+        "id": "c4",
+        "title": "3. Mettre en place les rubriques À propos et Contact",
+        "videos": [
+            {
+                "id": "v15",
+                "title": "01 - Créer la page À propos",
+                "name": "https://formations.nedjma.org/vi/figma/ch-4/v15.mp4",
+                "duration": "24:49"
+            },
+            {
+                "id": "v16",
+                "title": "02 - Ajouter des caractères spéciaux",
+                "name": "https://formations.nedjma.org/vi/figma/ch-4/v16.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v17",
+                "title": "03 - Cloner la page À propos",
+                "name": "https://formations.nedjma.org/vi/figma/ch-4/v17.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v18",
+                "title": "04 - Créer la page Contact",
+                "name": "https://formations.nedjma.org/vi/figma/ch-4/v18.mp4",
+                "duration": "2:45"
+            }
+        ]
+    },
+    {
+        "id": "c5",
+        "title": "4. Animer le prototype",
+        "videos": [
+            {
+                "id": "v19",
+                "title": "01 - Mettre au propre",
+                "name": "https://formations.nedjma.org/vi/figma/ch-5/v19.mp4",
+                "duration": "24:49"
+            },
+            {
+                "id": "v20",
+                "title": "02 - Créer l'interaction sur le splash screen",
+                "name": "https://formations.nedjma.org/vi/figma/ch-5/v20.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v21",
+                "title": "03 - Ajouter des interactions au menu",
+                "name": "https://formations.nedjma.org/vi/figma/ch-5/v21.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v22",
+                "title": "04 - Animer le slider",
+                "name": "https://formations.nedjma.org/vi/figma/ch-5/v22.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v23",
+                "title": "05 - Animer le composant ROAR",
+                "name": "https://formations.nedjma.org/vi/figma/ch-5/v23.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v24",
+                "title": "06 - Ajouter des interactions aux boutons",
+                "name": "https://formations.nedjma.org/vi/figma/ch-5/v24.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v25",
+                "title": "07 - Appliquer une animation de scroll",
+                "name": "https://formations.nedjma.org/vi/figma/ch-5/v25.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v26",
+                "title": "08 - Ajouter des effets sur les icônes des réseaux sociaux",
+                "name": "https://formations.nedjma.org/vi/figma/ch-5/v26.mp4",
+                "duration": "2:45"
+            },
+            {
+                "id": "v27",
+                "title": "09 - Créer les interactions de la page À propos",
+                "name": "https://formations.nedjma.org/vi/figma/ch-5/v27.mp4",
+                "duration": "2:45"
+            }
+        ]
+    },
+    {
+        "id": "c6",
+        "title": "06 - Conclusion",
+        "videos": [
+            {
+                "id": "v28",
+                "title": "01 - Tester sa maquette de site Internet",
+                "name": "https://formations.nedjma.org/vi/figma/ch-6/v28.mp4",
+                "duration": "2:47"
+            },
+            {
+                "id": "v29",
+                "title": "02 - Conclure ce cours sur Figma",
+                "name": "https://formations.nedjma.org/vi/figma/ch-6/v29.mp4",
+                "duration": "2:47"
+            }
+        ]
+    }
 ]
