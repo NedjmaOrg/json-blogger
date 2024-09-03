@@ -1,0 +1,241 @@
+[
+	{
+		"id": "c1",
+		"title": "Introduction",
+		"videos": [
+			{
+				"id": "v1",
+				"title": "01 - Bienvenue dans « WordPress  Créer un site multilingue »",
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-1/v1.mp4",
+				"duration": "2:47"
+			}
+		]
+	},
+	
+	{
+		"id": "c2",
+		"title": "1. Découvrir la création des sites multilingues",
+		"videos": [
+			{
+				"id": "v2",
+				"title": "01 - Créer un site multilingue avec Polylang",
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-2/v2.mp4",
+				"duration": "2:47"
+			},
+			
+			{
+				"id": "v3",
+				"title": "02 - Connaître les fonctionnalités de Polylang",
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-2/v3.mp4",
+				"duration": "2:47"
+			},
+			
+			{
+				"id": "v4",
+				"title": "03 - Installer l’extension Polylang",
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-2/v4.mp4",
+				"duration": "2:47"
+			},
+			
+			{
+				"id": "v5",
+				"title": "04 - Gérer les langues utilisées",
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-2/v5.mp4",
+				"duration": "2:47"
+			},
+			
+			{
+				"id": "v6",
+				"title": "05 - Traduire les libellés des paramètres du site",
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-2/v6.mp4",
+				"duration": "2:47"
+			},
+			
+			{
+				"id": "v7",
+				"title": "06 - Synchroniser les paramètres de contenu",
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-2/v7.mp4",
+				"duration": "2:47"
+			},
+			
+			{
+				"id": "v8",
+				"title": "07 - Afficher les langues du site",
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-2/v8.mp4",
+				"duration": "2:47"
+			}
+		]
+	},
+	
+	{
+		"id": "c3",
+		"title": "2. Créer des articles multilingues",
+		"videos": [
+			{
+				"id": "v9",
+				"title": "01 - Traduire les catégories",
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-3/v9.mp4",
+				"duration": "2:47"
+			},
+			
+			{
+				"id": "v10",
+				"title": "02 - Modifier les catégories",
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-3/v10.mp4",
+				"duration": "2:47"
+			},
+			
+			{
+				"id": "v11",
+				"title": "03 - Gérer les étiquettes",
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-3/v11.mp4",
+				"duration": "2:47"
+			},
+			
+			{
+				"id": "v12",
+				"title": "04 - Traduire un article  première méthode",
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-3/v12.mp4",
+				"duration": "2:47"
+			},
+			
+			{
+				"id": "v13",
+				"title": "05 - Traduire un article  deuxième méthode",
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-3/v13.mp4",
+				"duration": "2:47"
+			},
+			
+			{
+				"id": "v14",
+				"title": "06 - Gérer les articles",
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-3/v14.mp4",
+				"duration": "2:47"
+			},
+			
+			{
+				"id": "v15",
+				"title": "07 - Afficher le site multilingue",
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-3/v15.mp4",
+				"duration": "2:47"
+			}
+		]
+	},
+	
+	{
+		"id": "c4",
+		"title": "3. Gérer les pages et les menus",
+		"videos": [
+			{
+				"id": "v16",
+				"title": "01 - Ajouter des pages",
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-4/v16.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v17",                                         
+				"title": "02 - Créer un menu de navigation multilingue",                    
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-4/v17.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v18",                                         
+				"title": "03 - Afficher les menus et les pages",   
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-4/v18.mp4",
+				"duration": "2:47"                                  
+			}
+		]
+	},
+	{
+		"id": "c5",
+		"title": "4. Gérer les médias",
+		"videos": [
+			{
+				"id": "v19",
+				"title": "01 - Synchroniser l'utilisation des images",
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-5/v19.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v20",                                         
+				"title": "02 - Ajouter une image à la bibliothèque  première méthode",                    
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-5/v20.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v21",                                         
+				"title": "03 - Ajouter une image à la bibliothèque  deuxième méthode",   
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-5/v21.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v22",                                        
+				"title": "04 - Insérer une image dans un article",              
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-5/v22.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v23",                                        
+				"title": "05 - Utiliser les images à la une",
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-5/v23.mp4",
+				"duration": "2:47"
+			},
+			
+			{                                                       
+				"id": "v24",                                        
+				"title": "06 - Afficher les contenus ayant des images",
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-5/v23.mp4",
+				"duration": "2:47"
+			}
+			
+		]
+	},
+	
+	{
+		"id": "c6",
+		"title": "5. Afficher le site multilingue",
+		"videos": [
+			{
+				"id": "v25",
+				"title": "01 - Utiliser le widget Liste des langues pour passer d'une langue à l'autre",
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-6/v25.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v26",                                         
+				"title": "02 - Paramétrer le widget Liste des langues pour la navigation",                    
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-6/v26.mp4",
+				"duration": "2:47"                                  
+			},                                                      
+																	
+			{                                                       
+				"id": "v27",                                         
+				"title": "03 - Gérer des URL ",   
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-6/v27.mp4",
+				"duration": "2:47"                                  
+			}
+			
+		]
+	},
+	
+	
+	{
+		"id": "c7",
+		"title": "Conclusion",
+		"videos": [
+			{
+				"id": "v28",
+				"title": "01 - Conclure sur la création des sites WordPress multilingues",
+				"name": "https://formations.nedjma.org/vi/wp-multi/ch-7/v33.mp4",
+				"duration": "2:47"                                  
+			}
+		]
+	}
+]
